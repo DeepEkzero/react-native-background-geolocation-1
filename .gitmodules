@@ -4,3 +4,6 @@
 [submodule "android-common"]
 	path = android/common
 	url = https://github.com/darron1217/background-geolocation-android.git
+[submodule "android/common"]
+	path = android/common
+	url = https://github.com/rahulekZero/background-geolocation-android.git
