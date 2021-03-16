@@ -5,13 +5,13 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "scripts": {
-    "link": "@darron1217/react-native-background-geolocation/scripts/postlink.js",
-    "unlink": "@darron1217/react-native-background-geolocation/scripts/postunlink.js",
+    "link": "@rahulekZero/react-native-background-geolocation/scripts/postlink.js",
+    "unlink": "@rahulekZero/react-native-background-geolocation/scripts/postunlink.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darron1217/react-native-background-geolocation.git"
+    "url": "git+https://github.com/rahulekZero/react-native-background-geolocation.git"
   },
   "keywords": [
     "gps",
@@ -35,9 +35,9 @@
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/darron1217/react-native-background-geolocation/issues"
+    "url": "https://github.com/rahulekZero/react-native-background-geolocation.git/issues"
   },
-  "homepage": "https://github.com/darron1217/react-native-background-geolocation#readme",
+  "homepage": "https://github.com/rahulekZero/react-native-background-geolocation.git#readme",
   "dependencies": {
     "plist": "^3.0.1"
   },
